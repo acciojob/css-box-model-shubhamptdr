@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+
+.con {
+  background-color: lightblue;
+  width: 300px;
+  border: 15px solid blue;
+  margin: 20px;
+}
+
+p {
+  padding: 12px;
+}
